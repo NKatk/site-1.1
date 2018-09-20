@@ -1,0 +1,141 @@
+body {
+	background: url("fon1.jpg");
+	background-size: 100%
+}
+
+.header {
+	width: 100%;
+	height: 60px;
+	border-radius: 10px;
+	background: linear-gradient(to left, black, gray);
+	opacity: 0.9;
+}
+
+.header-table {
+	margin: auto;
+	color: white;
+	width: 100%;
+	height: 40px;	
+}
+
+.slb1 {
+	width: 16%;
+	border-right: 1px solid darkgray;
+	text-align: center;
+}	
+
+.slb2 {
+	width: 24%;
+	border-right: 1px solid darkgray;
+	text-align: center;
+}	
+
+.slb3 {
+	width: 20%;
+	border-right: 1px solid darkgray;
+	text-align: center;
+}	
+
+.slb4 {
+	width: 24%;
+	border-right: 1px solid darkgray;
+	text-align: center;
+}	
+
+.slb5 {
+	border-right: none;
+	width: 16%;
+}	
+
+.logo {
+	height: 52px;
+	width: 90%;
+}
+
+.menu-h {
+	color: white;
+	text-decoration: none;
+	padding: 5% 15%;
+}
+
+
+
+
+
+.left-c {
+	background-color: white;
+	opacity: 0.9;
+	width: 15.5%;
+	min-height: 500px; 
+	border-radius: 10px;
+	float: left;
+	margin-top: 17px;
+}
+	
+.left-c>table, .right-c>table {
+	margin: auto;
+	margin-top: 20px;
+}
+
+.left-c>table tr td, .right-c>table tr td {
+	padding: 5px;
+	border-bottom: 1px solid darkgray;
+	text-align: 10px;
+}
+
+.topic {
+	color: black;
+	text-decoration: none; 
+	padding: 5px;
+}
+
+
+
+
+.right-c {
+	background-color: white;
+	opacity: 0.9;
+	width: 15.5%;
+	min-height: 500px; 
+	border-radius: 10px;
+	float: right;
+	margin-top: 17px;
+}
+
+.ava {
+	display: block;
+	margin: 15px auto ;
+	width: 80%;
+}
+
+.right-c>p {
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+
+.content {
+	background-color: lightyellow;
+	opacity: 0.5;
+	width: 66%;
+	min-height: 500px; 
+	border-radius: 10px;
+	margin: auto;
+	margin-top: 17px;
+}
+
+
+
+
+
+.bottom-c {
+	color: white;
+	width: 100%;
+	height: 60px;
+	border-radius: 10px;
+	margin-top: 17px;
+	background: linear-gradient(to left, gray, black);
+	opacity: 0.8;
+}
